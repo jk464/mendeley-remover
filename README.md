@@ -3,7 +3,7 @@ Replace references using Mendeley Reference Manager with plain text
 
 References in word doc broken cause MRM is rubbish? This allows you to replace those references with plaintext ones (assuming you've already made).
 
-Install requirements with `python pip install -r requirments.txt`
+Install requirements with `python pip install python-docx`
 
 Then run `python mrm_remover.py <DOCX>`
 
